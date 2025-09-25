@@ -23,6 +23,9 @@ Bienvenid@ al repositorio del equipo **KillBot X** para la World Robot Olympiad 
 file:Documento
 1. **[Desc-general](Documento/desc-general.md)** –descripción general.
 2. **[sensores](Documento/sensores.md)** – Especificaciones en los sensores.
+3. **[componentes](components)** - forma parte del robot.
+4. **[esquemas](esquemas)**
+5. **[src](src)** - programación del robot.
 
 ---
 
