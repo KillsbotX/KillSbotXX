@@ -20,9 +20,9 @@ Bienvenid@ al repositorio del equipo **KillBot X** para la World Robot Olympiad 
 
 ---
 ## Índice General del Proyecto
-
-1. **[Documento](Documento/desc-general.md)** – Componentes principales y fases de operación.
-2. **[Hardware y Componentes](/docs/hardware.md)** – Especificaciones electrónicas y mecánicas.
+file:Documento
+1. **[Desc-general](Documento/desc-general.md)** –descripción general.
+2. **[sensores](Documento/sensores.md)** – Especificaciones en los sensores.
 
 ---
 
