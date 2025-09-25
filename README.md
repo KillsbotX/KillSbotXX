@@ -37,14 +37,14 @@ file:Documento
 
 - ## Código Fuente
 
-- `[src]` – programas en EV3 (bloques)
+- (src) – programas en EV3 (bloques)
 - ## Integrantes del Equipo 🧑‍💻🧑‍🔧
 
 - **Kathiusca Arcia** – Programación y documentación
 - **Sofía Barrias** – Electrónica y pruebas
 - **Estyfen Adames** – coordinación y control
   
-> En **`/t-photos`** encontrarás fotos formales y divertidas del equipo.
+> En **`(t-photos)´** encontrarás fotos formales y divertidas del equipo.
 
 ---
 ## Agradecimientos
