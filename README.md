@@ -53,13 +53,13 @@ file:Documento
 
 Queremos dar un gran *GRACIAS* a la *World Robot Olympiad 2025* por brindarnos la oportunidad de vivir esta experiencia increíble.  
 
-Este evento nos permitió *aprender, crecer y conectar* con jóvenes de todo el mundo que comparten nuestra pasión por la *ciencia, la tecnología y la robótica*.  
+Este evento nos permitió *aprender, crecer y conectar* con jóvenes de nuestra Región que comparten nuestra pasión por la *ciencia, la tecnología y la robótica*.  
 
 ---
 
 ## 🙌 Agradecimientos Especiales
 
-- *Organizadores, jueces, voluntarios, mentores y patrocinadores*  
+- *Organizadores, jueces, voluntarios, tutores y patrocinadores*  
   Su esfuerzo y dedicación hacen posible este espacio que inspira a las nuevas generaciones de ingenieros e innovadores.  
 
 - *Nuestra escuela, profesores y padres*  
