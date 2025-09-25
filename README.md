@@ -24,7 +24,7 @@ file:Documento
 1. **[Desc-general](Documento/desc-general.md)** –descripción general.
 2. **[sensores](Documento/sensores.md)** – Especificaciones en los sensores.
 3. **[componentes](components)** - forma parte del robot.
-4. **[esquemas](schemes )**
+4. **[esquemas](schemes)**
 5. **[src](src)** - programación del robot.
 
 ---
