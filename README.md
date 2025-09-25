@@ -49,6 +49,30 @@ file:Documento
 ---
 ## Agradecimientos
 
-A la comunidad WRO y a quienes comparten recursos abiertos para aprendizaje en robótica educativa.
+# ✨ Agradecimiento a la WRO 2025 ✨
 
-- 
+Queremos dar un gran *GRACIAS* a la *World Robot Olympiad 2025* por brindarnos la oportunidad de vivir esta experiencia increíble.  
+
+Este evento nos permitió *aprender, crecer y conectar* con jóvenes de todo el mundo que comparten nuestra pasión por la *ciencia, la tecnología y la robótica*.  
+
+---
+
+## 🙌 Agradecimientos Especiales
+
+- *Organizadores, jueces, voluntarios, mentores y patrocinadores*  
+  Su esfuerzo y dedicación hacen posible este espacio que inspira a las nuevas generaciones de ingenieros e innovadores.  
+
+- *Nuestra escuela, profesores y padres*  
+  Gracias por su apoyo incondicional y por motivarnos a dar lo mejor de nosotros. 💪✨  
+
+---
+
+La *WRO 2025* no solo nos retó a mejorar nuestras habilidades técnicas, sino que también nos enseñó valores importantes como:  
+
+- 🤝 Trabajo en equipo  
+- 🔑 Perseverancia  
+- 💡 Creatividad  
+
+---
+
+🚀 ¡Gracias por abrirnos las puertas al futuro! 🤖
